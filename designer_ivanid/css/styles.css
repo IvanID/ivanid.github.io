@@ -64,7 +64,7 @@ body {
 /* link */
 
 .link {
-  background-color: #ffffff;
+  background-color: #FFFFFF;
   margin-bottom: 40px;
   text-aglin: center;
   padding: 0 40px 0 40px; }
@@ -204,6 +204,13 @@ body {
       padding-right: 40px; }
       .banner .logo img {
         width: 64px; }
+  
+  .link {
+  background-color: #FFFFFF;
+  margin-bottom: 40px;
+  text-aglin: center;
+  padding: 0 40px 0 40px; }
+  
   .card {
     border-radius: 12px;
     margin-bottom: 40px;
@@ -250,7 +257,7 @@ body {
 
 @media only screen and (max-width: 414px) {
   .banner {
-    background-color: white; }
+    background-color: #FFFFFF; }
     .banner p {
       float: left;
       font-size: 1.75rem;
@@ -285,6 +292,13 @@ body {
       padding-left: 40px; }
       .banner .logo_small img {
         width: 64px; }
+  
+  .link {
+  background-color: #FFFFFF;
+  margin-bottom: 40px;
+  text-aglin: center;
+  padding: 0 40px 0 40px; }
+  
   .card {
     border-radius: 12px;
     margin-bottom: 40px;
