@@ -9,7 +9,7 @@
   line-height: 1; }
 
 body {
-  font-family: "SF Pro Text","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,Helvetica,Roboto;;
   -webkit-font-smoothing: antialiased;
   margin: 0; }
 
