@@ -11,6 +11,7 @@
 body {
   font-family: "SF Pro Text","Helvetica Neue","Helvetica","Arial",sans-serif;
   -webkit-font-smoothing: antialiased;
+  background-color: #ffffff;
   margin: 0; }
 
 .clearfix:before, .clearfix:after {
