@@ -9,7 +9,7 @@
   line-height: 1; }
 
 body {
-  font-family: -apple-system,BlinkMacSystemFont,Helvetica,Roboto;;
+  font-family: -apple-system,Helvetica,Roboto;
   -webkit-font-smoothing: antialiased;
   margin: 0; }
 
@@ -179,7 +179,7 @@ body {
       font-weight: 800;
       line-height: 3.5rem;
       color: #2C3341;
-      font-family: SFUIDisplay-Heavy;
+      
       padding-top: 74px;
       padding-left: 40px;
       text-align: left; }
@@ -257,7 +257,7 @@ body {
       font-weight: 800;
       line-height: 3rem;
       color: #2C3341;
-      font-family: SFUIDisplay-Heavy;
+      
       padding-top: 0px;
       padding-left: 40px;
       text-align: left; }
